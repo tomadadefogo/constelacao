@@ -13,8 +13,10 @@ const DropdownMenu = () => {
             <div className={styles.container}>
             <div>
               <h2 className={styles.titletop}>São apenas 4 constelações, porém elas são extremamente importantes pois a partir delas o povo observava a mudança das estações e podiam planejar a colheita.</h2>
-              <h3 className={styles.title}>Olá Mundo</h3>
-              <img className={styles.drop1} src={foto} alt="teste" />
+              <div>
+                <h3 className={styles.title}>Olá Mundo</h3>
+                <img className={styles.drop1} src={foto} alt="teste" />
+              </div>
             </div>
             <div>
               <h3 className={styles.title}>Olá Mundo</h3>
