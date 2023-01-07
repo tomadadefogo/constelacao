@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/constelacao/static/css/main.bdc4bbac.css",
-    "main.js": "/constelacao/static/js/main.8b7cfd3b.js",
-    "static/media/scorpiao.png": "/constelacao/static/media/scorpiao.491c5005066ab9b0443e.png",
-    "static/media/the-beautiful-shining-stars-in-the-night-sky.jpg": "/constelacao/static/media/the-beautiful-shining-stars-in-the-night-sky.a7257e7fbff66d7fb7cc.jpg",
-    "static/media/juskteez-vu-TIrXot28Znc-unsplash.jpg": "/constelacao/static/media/juskteez-vu-TIrXot28Znc-unsplash.d8324b50471c6b970f2f.jpg",
-    "static/media/planet-volumes-awYEQyYdHVE-unsplash.jpg": "/constelacao/static/media/planet-volumes-awYEQyYdHVE-unsplash.757035516b982de69f21.jpg",
-    "index.html": "/constelacao/index.html",
-    "main.bdc4bbac.css.map": "/constelacao/static/css/main.bdc4bbac.css.map",
-    "main.8b7cfd3b.js.map": "/constelacao/static/js/main.8b7cfd3b.js.map"
+    "main.css": "/static/css/main.03b22d60.css",
+    "main.js": "/static/js/main.6cb9782e.js",
+    "static/media/scorpiao.png": "/static/media/scorpiao.491c5005066ab9b0443e.png",
+    "static/media/the-beautiful-shining-stars-in-the-night-sky.jpg": "/static/media/the-beautiful-shining-stars-in-the-night-sky.a7257e7fbff66d7fb7cc.jpg",
+    "static/media/juskteez-vu-TIrXot28Znc-unsplash.jpg": "/static/media/juskteez-vu-TIrXot28Znc-unsplash.d8324b50471c6b970f2f.jpg",
+    "static/media/planet-volumes-awYEQyYdHVE-unsplash.jpg": "/static/media/planet-volumes-awYEQyYdHVE-unsplash.757035516b982de69f21.jpg",
+    "index.html": "/index.html",
+    "main.03b22d60.css.map": "/static/css/main.03b22d60.css.map",
+    "main.6cb9782e.js.map": "/static/js/main.6cb9782e.js.map"
   },
   "entrypoints": [
-    "static/css/main.bdc4bbac.css",
-    "static/js/main.8b7cfd3b.js"
+    "static/css/main.03b22d60.css",
+    "static/js/main.6cb9782e.js"
   ]
 }
